@@ -24,10 +24,10 @@ This research project provides a comprehensive overview of how **Artificial Inte
 ## 👥 The Team
 Developed by Computer Science students at **King Faisal University**:
 - **Atekah Hussain Aljafar**
-- Benin Ali Alhajji
+- **Benin Ali Alhajji**
 
 ---
-*Part of the Introduction to Computer Course (Section 66) - KFU.*
+*Part of the Introduction to Computer Course - KFU.*
 ---
 *Connect with me on LinkedIn for more projects!*
 [https://www.linkedin.com/in/ateka-hussain/](https://www.linkedin.com/in/ateka-hussain/)
